@@ -65,18 +65,6 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ##
 
-### Installation (Termux)
-You can easily install zphisher in Termux by using tur-repo
-```
-$ pkg install tur-repo
-$ pkg install zphisher
-$ zphisher
-```
-### A Note : 
-***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
-
-##
-
 <details>
   <summary><h3>Dependencies</h3></summary>
 
